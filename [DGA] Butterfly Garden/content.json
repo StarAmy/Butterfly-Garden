@@ -8,8 +8,8 @@
         "TankDecorationCapacity": 15,
         "Configurations": [
             {
-                "Texture": "Assets/butterfly_garden.png:0",
-                "FrontTexture": "Assets/butterfly_garden.png:1",
+                "Texture": "Assets/butterfly_garden.png:1",
+                "FrontTexture": "Assets/butterfly_garden.png:0",
                 "DisplaySize": { "X": 4, "Y": 4 },
                 "CollisionHeight": 3,
             }
